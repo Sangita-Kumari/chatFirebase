@@ -1,3 +1,28 @@
+
+In this app I have used Firebase for authentication, chat, storing all chats into firebase.
+Some screenShots - 
+![SignUpPage](https://github.com/Sangita-Kumari/chatFirebase/assets/98204711/af779a25-3181-442e-8661-d20cfbd9e581)    ![LoginPage](https://github.com/Sangita-Kumari/chatFirebase/assets/98204711/8cd3b861-6512-4924-8cc6-8df25b03fa4e)
+
+
+
+![UsersPage](https://github.com/Sangita-Kumari/chatFirebase/assets/98204711/54d4ca6f-7bd7-41a4-b681-1d8ae7d390ad)    ![chatPage](https://github.com/Sangita-Kumari/chatFirebase/assets/98204711/bc633443-0a6d-4369-8ffa-1a64113c69b8)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
